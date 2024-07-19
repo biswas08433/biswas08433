@@ -8,7 +8,7 @@
 
 I'm a passionate software developer with a love for building innovative solutions. Currently, I'm focusing on full-stack development and exploring the latest technologies in the field. I enjoy solving complex problems and continuously learning new things. Veteran Golang developer. Game Development, graphics and GPU programming.
 
-- 🔭 I’m currently working on **[Your Current Project](https://github.com/your-username/current-project)**
+<!-- - 🔭 I’m currently working on **[Your Current Project](https://github.com/your-username/current-project)** -->
 - 🌱 I’m currently learning **[Vue.js, Flutter]**
 - 💬 Ask me about **Game Development**
 - 📫 How to reach me: [biswas08433@gmail.com](mailto:biswas08433@gmail.com)
