@@ -16,9 +16,9 @@ I'm a passionate software developer with a love for building innovative solution
 ## 🛠️ My Skills
 
 ### Languages
+![Go](https://img.shields.io/badge/-Go-blue?logo=go&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white&style=for-the-badge)
 
 <!-- ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=for-the-badge)
