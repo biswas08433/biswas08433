@@ -52,8 +52,8 @@ A brief description of Project 2. Highlight key features or technologies used.
 
 ## ✨ Fun Facts
 
-- 😄 Pronouns: He/Him, She/Her, They/Them
-- ⚡ Fun fact: I love hiking and have climbed 10 different mountains!
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love hiking and have climbed 3 different mountains!
 
 ## 📫 Connect with Me
 
